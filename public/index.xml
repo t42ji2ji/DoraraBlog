@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Dorara 閱讀紀錄</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Dorara 閱讀紀錄</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jun 2024 05:00:31 +0800</lastBuildDate>
