@@ -6,7 +6,6 @@
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
 <head>
-    {{ $customCSS := resources.Get "css/custom.css" | minify | fingerprint }}
     {{- partial "head.html" . }}
 </head>
 

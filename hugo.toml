@@ -1,15 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Dorara 閱讀紀錄'
+title = 'Dorara'
 theme = ["PaperMod"]
 
 [params]
   ShowReadingTime = true
-  ShowShareButtons = true
-  [params.homeInfoParams]
-    Title = "Hi there wave"
-    Content = "關於科技，人性，存在"
+  custom_css = ["css/custom.css"]
 
+  [params.homeInfoParams]
+    Title = "Hello World"
+    Content = "關於科技，人性，存在"
 
 [markup]
   [markup.goldmark]
