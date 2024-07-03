@@ -77,6 +77,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Setup CNAME for custom domain
-        run: echo 'blog.dorara.xyz' > ./public/CNAME
