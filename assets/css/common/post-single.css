@@ -192,6 +192,8 @@
 }
 
 .post-content code {
+  color: red;
+  font-weight: bold;
   margin: auto 4px;
   padding: 4px 6px;
   font-size: 0.78em;
