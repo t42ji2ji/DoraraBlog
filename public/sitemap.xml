@@ -22,5 +22,11 @@
   </url><url>
     <loc>http://localhost:1313/post/%E6%B5%B7%E5%BE%B7%E6%A0%BC%E7%88%BE_%E5%AD%98%E5%9C%A8%E8%88%87%E6%99%82%E9%96%93/</loc>
     <lastmod>2024-06-28T05:00:31+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%97%85%E8%A1%8Ca/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E6%97%85%E8%A1%8Cc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/post/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E9%BB%91%E5%AE%A2%E6%9D%BE_%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C%E5%BF%83%E5%BE%97/</loc>
   </url>
 </urlset>

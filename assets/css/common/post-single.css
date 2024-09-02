@@ -415,3 +415,7 @@ img.in-text {
   display: inline;
   margin: auto;
 }
+
+a {
+  color: rgb(44, 135, 216);
+}
