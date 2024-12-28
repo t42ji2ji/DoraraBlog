@@ -6,8 +6,15 @@
     <description>Recent content on Dorara</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 05:00:31 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 05:00:31 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dorara 的 2024 年度回顧</title>
+      <link>http://localhost:1313/post/2024_recommand/</link>
+      <pubDate>Sat, 28 Dec 2024 05:00:31 +0800</pubDate>
+      <guid>http://localhost:1313/post/2024_recommand/</guid>
+      <description>2024 年黑客松、出書與生活的點點滴滴</description>
+    </item>
     <item>
       <title>海德格爾 存在與時間</title>
       <link>http://localhost:1313/post/%E6%B5%B7%E5%BE%B7%E6%A0%BC%E7%88%BE_%E5%AD%98%E5%9C%A8%E8%88%87%E6%99%82%E9%96%93/</link>
@@ -26,18 +33,6 @@
 在質疑過後，也許會想到逃回夢裡，回到沈淪的狀態。良知會批評你，更甚者祂會貶低你的現況與價值觀。你會憤怒，沮喪，焦躁，難過，窒息。會對抗，拒絕，躺平，自傲，不滿，受傷。但無論選擇成為何種狀態都不會有人批評你，也不該有人批評，因為生活本來就是人各自的選擇，我甚至無法判斷找回本真或回歸沈淪哪個更好。並不是所有人都有辦法花上一輩子的時間去尋找答案，也還好只有一輩子的時間，不然對於人類這個物種的種種限制來說：太辛苦了。
 I tried so hard and got so far. But in the end it doesn&amp;rsquo;t even matter.
 &amp;ndash; Linkin Park (In the End)</description>
-    </item>
-    <item>
-      <title>日本東京黑客松 遠端工作心得</title>
-      <link>http://localhost:1313/post/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E9%BB%91%E5%AE%A2%E6%9D%BE_%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C%E5%BF%83%E5%BE%97/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E9%BB%91%E5%AE%A2%E6%9D%BE_%E9%81%A0%E7%AB%AF%E5%B7%A5%E4%BD%9C%E5%BF%83%E5%BE%97/</guid>
-      <description>遠端工作： 這次在日本東京待了有兩個星期，感覺自己算是體驗了半個遠端工作。遠觀工作最大的挑戰在於對於團隊的基礎信任，在這點上我們的團隊做得很好，大家也不吝嗇於主動找對方溝通。這份信任感的基礎在於：主動溝通，不要等到有問題才開口，這樣才能讓大家知道你在做什麼，也讓你知道別人在做什麼。
-黑客松： 今年已經是第二次參加 Hackthon 的活動。跟上次比起來更加從容，我總結一下這些從容的原因：
-更加熟悉流程，知道如何分配好的時間 更理解自己的能力，知道自己在時間能能做什麼，不能做什麼 更了解黑客松評審的標準，知道如何去滿足評審的需求 所以雖然今年沒有像去年一樣那麼累，但是這次的成果更加令人滿意。我所在的團隊拿到了 Main Track 的第一名。
-題目： 透過 zk Proof 證明自己已經在 web2 的網站上入金。在合約上去驗證這些 proof，就可以自動發放 token 給使用者。這個概念在 DeFi 上有很大的應用空間，我們也在這次的黑客松上得到 🦊 Metamask 的項目方認可，認為這個概念是可以實現的。
-由於要製作比賽的簡報，我自己也在這次的比賽中，對於 OTC 這件事情為什麼很重要有了新的理解。OTC 或者說 P2P 交易本質上可以看成是更加純粹的價值交換，因為這種交易方式不需要經過中間商，所以可以減少價值的流失以及交易的成本。在還沒萬物都 Tokenize 的時代之前，OTC 交易可能是一個解決方案。
-如果對內容感興趣的也可以參考我們的 Slide 和 Project Page。</description>
     </item>
   </channel>
 </rss>

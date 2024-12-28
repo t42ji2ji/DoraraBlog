@@ -16,3 +16,5 @@ theme = ["PaperMod"]
     [markup.goldmark.renderer]
       unsafe = true
       hardLineBreak = true
+
+enableGitInfo = true

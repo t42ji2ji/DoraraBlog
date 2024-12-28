@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/tags/hugoa/</guid>
       <description></description>
     </item>
-    <item>
-      <title>旅行A</title>
-      <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8Ca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%97%85%E8%A1%8Ca/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
