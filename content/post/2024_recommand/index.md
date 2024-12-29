@@ -5,13 +5,16 @@ description: "2024 年黑客松、出書與生活的點點滴滴"
 ---
 ## ⭐ 今年流水帳總結：
 
-### ✨ March：ETH Taipei｜🥷 Kage Pay
+### March：ETH Taipei｜🥷 Kage Pay
 
-🏆： Finalist、Zircuit、Linea、以及 Circle 四項大獎 😍
-
-🌐：[Kage Pay](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3z5q8a0iq4wc01x67g2mh3/idea)
+> 🏆： Finalist、Zircuit、Linea、以及 Circle 四項大獎 😍
+> 
+> 🌐：[Kage Pay](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3z5q8a0iq4wc01x67g2mh3/idea)
 
 Kage Pay 是一個專注於解決區塊鏈面對面支付問題的項目。"Kage" 在日文中是影子的意思，代表著我們希望為用戶提供隱私保護的支付體驗。
+
+<details>
+<summary>查看技術細節</summary>
 
 主要解決四個核心問題：
 - 通過隱匿地址（Stealth Address）保護用戶資產隱私
@@ -19,15 +22,20 @@ Kage Pay 是一個專注於解決區塊鏈面對面支付問題的項目。"Kage
 - 採用 Token Paymaster 讓用戶可以用 USDC 支付 gas 費
 - 整合 Circle 的跨鏈轉帳協議（CCTP）實現一鍵跨鏈
 
+</details>
+
 {{< youtube eUH8Hrw4laE >}}
 
-### ✨ April：FlutterxGlobal Gamers Challenge｜Better World
+### April：FlutterxGlobal Gamers Challenge｜Better World
 
-🏆：🥇 Best Integration 1st Place
+> 🏆：🥇 Best Integration 1st Place
+> 
+> 🌐：[Better World](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3z5q8a0iq4wc01x67g2mh3/idea)
 
-🌐：[Better World](https://taikai.network/ethtaipei/hackathons/hackathon-2024/projects/clu3z5q8a0iq4wc01x67g2mh3/idea)
+Better World 是一款專為兒童設計的環保教育遊戲。透過垃圾分類、節能減碳等互動小遊戲，讓孩子在遊玩過程中學習環保知識。
 
-Better World 是一款專為兒童設計的環保教育遊戲。透過垃圾分類、節能減碳等互動小遊戲，讓孩子在遊玩過程中學習環保知識。遊戲特色包括：
+<details>
+<summary>遊戲特色</summary>
 
 - 結合 AI 技術的實物掃描功能，幫助識別可回收物品
 - 收集瀕危動物卡片，提升野生動物保育意識
@@ -36,9 +44,10 @@ Better World 是一款專為兒童設計的環保教育遊戲。透過垃圾分�
 
 玩家在遊戲中獲得的獎勵可以捐贈給實際的環保組織，讓虛擬遊戲與現實環保行動緊密結合。
 
+</details>
 {{< youtube afh4jGIhhEg >}}
 
-### ✨ August：日本遠端兩個禮拜
+### August：日本遠端兩個禮拜
 
 這次我們是多位同事住在同個屋簷下兩個禮拜，一起工作，一起吃飯，一起玩。好像是畢業以後，第一次跟這麼多好朋友一起住這麼久。可能未來一段時間內也不會有這樣的機會了，所以格外的珍惜。有人說四十歲以後的人生就是不斷在失去，對於這些難得的體驗確實有這樣的感覺呢。
 
@@ -47,10 +56,10 @@ Better World 是一款專為兒童設計的環保教育遊戲。透過垃圾分�
 借放一下來自好同事的影片：
 {{< youtube cwmqP3r0TfE >}}
 
-### ✨ August：ETH Tokyo｜ONI-CHAN
-🏆：🥇 Finalists of #EthTokyo hackathon 2024.
-
-🌐：[ONI-CHAN](https://app.akindo.io/communities/RDo68AZVVs61q8V1V/products/63z0R3MWNF3JEpaL)
+### August：ETH Tokyo｜ONI-CHAN
+> 🏆：🥇 Finalists of #EthTokyo hackathon 2024.
+> 
+> 🌐：[ONI-CHAN](https://app.akindo.io/communities/RDo68AZVVs61q8V1V/products/63z0R3MWNF3JEpaL)
 
 ONI-CHAN 是一個創新的場外交易（OTC）協議，專注於解決傳統場外交易中的信任問題。透過零知識證明技術，用戶只要完成法幣轉帳（如銀行轉帳或 PayPal），就能立即從智能合約中領取購買的加密貨幣，無需等待賣家確認。
 
@@ -58,12 +67,15 @@ ONI-CHAN 是一個創新的場外交易（OTC）協議，專注於解決傳統�
 
 {{< youtube QzMnfdNgjqY >}}
 
-### ✨ November：ETH Bangkok｜WTF: AI+Wallet
-🏆：❌ 共估
+### November：ETH Bangkok｜WTF: AI+Wallet
+> 🏆：❌ 共估
+> 
+> 🌐：[WTF: AI+Wallet](https://ethglobal.com/showcase/wtf-ai-wallet-sjmyx)
 
-🌐：[WTF: AI+Wallet](https://ethglobal.com/showcase/wtf-ai-wallet-sjmyx)
+WTF 是一個結合 AI 的加密貨幣錢包框架，讓使用者可以用自然語言來進行交易。
 
-WTF 是一個結合 AI 的加密貨幣錢包框架，讓使用者可以用自然語言來進行交易。主要特色包括：
+<details>
+<summary>主要特色</summary>
 
 - 支援自然語言處理的交易指令（例如：「轉 100 USDC 給 Alice」）
 - 跨鏈支援（Base 和 Ethereum）
@@ -73,22 +85,28 @@ WTF 是一個結合 AI 的加密貨幣錢包框架，讓使用者可以用自然
 
 透過 AI 技術，WTF 讓區塊鏈互動變得像日常對話一樣簡單直觀。
 
+</details>
+
 > 到曼谷的第一天，因為誤信印度室友的餵食，吃了味道像是黑胡椒醬加上沙茶還有一包茶葉不小心被倒進去的早餐，導致我上吐下瀉，整個人非常不舒服。甚至是離開曼谷的最後一天，仍舊逃不過魔爪，我跟同事又在飯店裡上吐下瀉，太迷幻了。唯一的體驗大概就是在當地抽了大麻...
 
 ![image.png](./images/wtf.png)
 
-### ✨ December：成為作家出書啦｜Flutter 勇者之書
+### December：成為作家出書啦｜Flutter 勇者之書
 
 與 Yii 一起籌備的書籍，終於在十二月上線了。在去年參加鐵人賽後，就有出版社聯絡我，希望我寫一本書籍。當時我覺得自己寫的東西還不夠成熟（也不想太累 😌），所以婉拒了。但是今年在 Yii 與出版社的鼓勵下與邀約下，我們決定一起寫一本書。過程中我必須說，我非常感謝 Yii 的鼓勵，因為我對於寫書這件事的熱情，遠遠不及他。我會說都是有他的推動，我才能完成這本書。並且他也在過程中給了我很多的建議，讓我學習到非常多。
 
 在這裡無情工商一下，有興趣的朋友可以到博客來、天瓏書局購買哦。
 這本書不只帶你入門 Flutter，更要培養你成為一位具備全方位視野的工程師。
 
-適合以下讀者：
+<details> 
+<summary>適合以下讀者</summary>
+
 1. 想學習最新 Flutter 開發實務，覺得市面上教材已過時
 2. Mobile 開發新手，或正在尋找完整學習路徑
 3. 準備面試或想晉升 Senior 工程師
 4. 想深入理解 Flutter 架構與進階開發技巧
+
+</details>
 
 - [博碩](https://www.drmaster.com.tw/Bookinfo.asp?BookID=MP22460)
 - [博客來](https://www.books.com.tw/products/0011008795)
@@ -97,7 +115,7 @@ WTF 是一個結合 AI 的加密貨幣錢包框架，讓使用者可以用自然
 ![image.png](./images/book.jpg)
 
 
-### ✨ December：來搞個 Meme 幣吧｜Dweam
+### December：來搞個 Meme 幣吧｜Dweam
 
 在 2024 年 12 月，我和好朋友 PP 一起搞了個 Meme 幣，叫做 Dweam。他是個以夢想為主題的 Meme 幣，我們希望透過這個幣，讓大家能夠更了解夢想的重要性，以及夢想的力量。Dweam 是來自外太空的未知生物，他們的語言是夢想，他們的行動是夢想，他們的思考是夢想。在 AI Agent 的加持下，Dweam 會變得更加聰明，並且能夠透過夢想來實現任何願望。
 
@@ -144,19 +162,19 @@ WTF 是一個結合 AI 的加密貨幣錢包框架，讓使用者可以用自然
 
 ## ⭐ 今年最愛書籍
 
-**馬斯克傳**
+### 馬斯克傳
 《馬斯克傳》由傳奇傳記作家 Walter Isaacson 執筆，延續他在《喬布斯傳》中細膩描寫天才人物的筆法，將馬斯克這位今年最炙手可熱的創業家描繪得淋漓盡致。如果你已對馬斯克的故事耳熟能詳——從他奉行的第一性原理，到他與多任妻子間的戲劇性關係——這本書的內容或許不會帶來太多驚喜。然而，Isaacson 的視角與文字功力，讓這部傳記成為一本值得反覆品讀的作品。
 
 書中深入探索了馬斯克的性格、決策背後的驅動力，以及他如何影響我們的未來科技與生活。即便你認為自己對馬斯克已瞭如指掌，Isaacson 的筆觸將帶你進一步感受這位天才的複雜與非凡。
 
 ![image.png](./images/elon.png)
 
-**悉達多**
+### 悉達多
 《悉達多》是德國作家赫曼·赫賽以哲學思辨為筆，融匯印度宗教與文化而創作的經典小說。這本書以印度哲學為背景，但透過德國人特有的理性與存在主義視角重新詮釋，展現了東西方思想交融的深度與張力。悉達多的追尋之旅不僅是靈性的探索，也折射出赫賽對個人自由與生命真諦的哲學思考，是一部東方靈性與西方哲學對話的文學傑作。
 
 ![image.png](./images/zdado.jpg)
 
-**上癮**
+### 上癮
 《Hooked: How to Build Habit-Forming Products》是一本極度實用的書籍，特別適合正在開發產品或從事創新設計的人閱讀。由 Nir Eyal 和 Ryan Hoover 合著，這本書深入探討如何運用心理學的原理設計出讓用戶形成習慣的產品。
 
 書中提出的「Hook 模型」是一個循環的四步驟框架，幫助你理解如何吸引用戶、激發動機、創造回報並形成持續使用的習慣。無論是你在構思新的產品創意，還是想審視目前產品的不足之處，這本書都能提供實用的切入角度，讓你重新思考產品設計中的用戶心理。
@@ -165,7 +183,7 @@ WTF 是一個結合 AI 的加密貨幣錢包框架，讓使用者可以用自然
 
 ![image.png](./images/hooked.jpg)
 
-**巴拉吉預言**
+### 巴拉吉預言
 《The Anthology of Balaji》 by Eric Jorgenson 是一本讓讀者彷彿與 Balaji Srinivasan 進行深刻對話的書。它彙集了這位傑出的企業家、工程師、投資者和未來學家的思想精華，充滿挑戰性、前瞻性與啟發性的觀點。無論你是否完全認同書中的內容，這本書都會激發你思考新觀點，並以全新的方式看待世界。
 
 書籍分為三個主要部分：
@@ -183,17 +201,17 @@ Eric Jorgenson 透過整理 Balaji 過去十年中在 Blog、文章與推文中�
 
 ## ⭐ 今年最愛漫畫
 
-**坐在旁邊的傢伙，用那樣的眼神看著我...** (となりの席のヤツがそういう目で見てくる...)
+### 坐在旁邊的傢伙，用那樣的眼神看著我... (となりの席のヤツがそういう目で見てくる...)
 坐在旁邊的女同學，老是用下流的眼光看我，好討人厭可是莫名的好喜歡。
 
 ![**monga**](./images/monga1.jpg)
 
-**章魚嗶的原罪** (タコピーの原罪)
+### 章魚嗶的原罪 (タコピーの原罪)
 外星人章魚嗶，使用高科技來幫助人類。但是科技沒辦法解決人性的缺陷，還可能越幫越忙...
 
 ![**章魚嗶的原罪**](./images/monga2.jpg)
 
-**先養狗，然後……養了貓。** （犬を飼う そして…猫を飼う）
+### 先養狗，然後……養了貓。 (犬を飼う そして…猫を飼う)
 孤獨的美食家的作者另一部經典，以細膩的筆觸描寫人與動物之間的真實情感。
 
 ![**先養狗，然後……養了貓。**](./images/monga3.jpg)
@@ -203,37 +221,37 @@ Eric Jorgenson 透過整理 Balaji 過去十年中在 Blog、文章與推文中�
 ### 純音樂
 
 平靜的氛圍中，又能默默地挑撥你的情緒。坂本龍一永遠的版本答案，老師 R.I.P
-[**Merry Christmas Mr. Lawrence**](https://www.youtube.com/watch?v=MxPdn6jJMMQ&t=597s)
+> [**Merry Christmas Mr. Lawrence**](https://www.youtube.com/watch?v=MxPdn6jJMMQ&t=597s)
 
 從股癌的頻道中挖到的寶據說是寫給植物聽的歌。魔幻又令人舒服的音樂，需要親自體會
-[**Plantasia**](https://music.youtube.com/watch?v=LkesIsPGlSU&si=wxK95dyS4Ph5KaDv)
+>[**Plantasia**](https://music.youtube.com/watch?v=LkesIsPGlSU&si=wxK95dyS4Ph5KaDv)
 
 暮然回首的配樂，是一首聖歌。雋永的氛圍意外地適合出現在這個定格青春的電影裡。
-[**Light song**](https://www.youtube.com/watch?v=dnHpo1CVbLg)
+>[**Light song**](https://www.youtube.com/watch?v=dnHpo1CVbLg)
 
 ### 台語歌
 
 從董認識到**潤少**，但我發現**刺到整身軀**讓我更愛，把刺青文化跟街頭少年的傲氣性格刻畫的很好，歌詞絕對是上上品。（剛剛為了找連結，又聽一次實在太爽）
-[**刺到整身軀**](https://www.youtube.com/watch?v=DEiHTt6TGOg)
+> [**刺到整身軀**](https://www.youtube.com/watch?v=DEiHTt6TGOg)
 
 ### 國語歌
 
 陶喆的經典歌曲，現在來聽還是經典，味道還在。甚至因為時間反而讓他更顯得出眾。
-[**找自己**](https://music.youtube.com/watch?v=xG0waEXWUKk&si=Dgd6fbqx2JPCA6Zt)
+> [**找自己**](https://music.youtube.com/watch?v=xG0waEXWUKk&si=Dgd6fbqx2JPCA6Zt)
 
 歌詞寫得真好，第一句："很討厭吧 這樣說會讓你為難吧"。把戀愛中的卑微感描寫的細緻深入，非常喜歡他們切入戀愛的角度。
-[**能不能請你別把我丟下**](https://music.youtube.com/watch?v=ASkbJvFokkY&si=9GhGBKo66woMysBc)
+> [**能不能請你別把我丟下**](https://music.youtube.com/watch?v=ASkbJvFokkY&si=9GhGBKo66woMysBc)
 
 在這個做表面的時代，創作是不是也變得不夠純粹？當代電影大師帶來我知道你不敢聽，對創作者最深的靈魂拷問。
-[**我知道你不敢聽**](https://music.youtube.com/watch?v=2-gIsJhP2QQ&si=0XQsfBLU_o1xDWlR)
+> [**我知道你不敢聽**](https://music.youtube.com/watch?v=2-gIsJhP2QQ&si=0XQsfBLU_o1xDWlR)
 
 ### 日語歌
 
 真的很抱歉，今年才認識 Vaundy。00 後才華洋溢的創作者，旋律太抓耳有者復古加上迷幻的感覺，天才就是在形容這樣的人吧。
-[**踊り子**](https://music.youtube.com/watch?v=CnlMTBwsBHs&si=uW-Dw4z6KMDMNpZy)
+> [**踊り子**](https://music.youtube.com/watch?v=CnlMTBwsBHs&si=uW-Dw4z6KMDMNpZy)
 
 又是一位 00 後，年僅十八歲的 AKASAKI 創作的歌曲，日本的高中生都不是人。非常抓耳的旋律，勾勒出戀愛的浪漫氛圍。
-[**Bunny Girl**](https://music.youtube.com/watch?v=_GXbXU4g_CA&si=DebAPGtWDTLwGM1L)
+> [**Bunny Girl**](https://music.youtube.com/watch?v=_GXbXU4g_CA&si=DebAPGtWDTLwGM1L)
 
 洗腦的前奏，以及明確的節奏。各國都瘋 Remix 自己的版本，喜歡的話把各國都找出來比較一下吧。
-[**チーム友達**](https://www.youtube.com/watch?v=c1UaGJlsw5g)
+> [**チーム友達**](https://www.youtube.com/watch?v=c1UaGJlsw5g)
