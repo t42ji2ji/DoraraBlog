@@ -3,6 +3,35 @@ title: "Dorara 的 2024 年度回顧"
 date: 2024-12-28T05:00:31+08:00
 description: "2024 年黑客松、出書與生活的點點滴滴"
 ---
+
+## 目錄
+- [目錄](#目錄)
+- [⭐ 今年流水帳總結：](#今年流水帳總結)
+  - [March：ETH Taipei｜🥷 Kage Pay](#marcheth-taipei-kage-pay)
+  - [April：FlutterxGlobal Gamers Challenge｜Better World](#aprilflutterxglobal-gamers-challengebetter-world)
+  - [August：日本遠端兩個禮拜](#august日本遠端兩個禮拜)
+  - [August：ETH Tokyo｜ONI-CHAN](#augusteth-tokyooni-chan)
+  - [November：ETH Bangkok｜WTF: AI+Wallet](#novembereth-bangkokwtf-aiwallet)
+  - [December：成為作家出書啦｜Flutter 勇者之書](#december成為作家出書啦flutter-勇者之書)
+  - [December：來搞個 Meme 幣吧｜Dweam](#december來搞個-meme-幣吧dweam)
+- [⭐ 今年最受用：**長期主義**](#今年最受用長期主義)
+- [⭐ 今年最愛電影 《與夢前行 宮﨑駿》（Hayao Miyazaki and the Heron）](#今年最愛電影-與夢前行-宮﨑駿hayao-miyazaki-and-the-heron)
+- [⭐ 今年最愛動畫電影《驀然*回首*》（ルックバック)](#今年最愛動畫電影驀然回首ルックバック)
+- [⭐ 今年最愛書籍](#今年最愛書籍)
+  - [馬斯克傳](#馬斯克傳)
+  - [悉達多](#悉達多)
+  - [上癮](#上癮)
+  - [巴拉吉預言](#巴拉吉預言)
+- [⭐ 今年最愛漫畫](#今年最愛漫畫)
+  - [坐在旁邊的傢伙，用那樣的眼神看著我... (となりの席のヤツがそういう目で見てくる...)](#坐在旁邊的傢伙用那樣的眼神看著我-となりの席のヤツがそういう目で見てくる)
+  - [章魚嗶的原罪 (タコピーの原罪)](#章魚嗶的原罪-タコピーの原罪)
+  - [先養狗，然後……養了貓。 (犬を飼う そして…猫を飼う)](#先養狗然後養了貓-犬を飼う-そして猫を飼う)
+- [⭐ 今年最愛音樂](#今年最愛音樂)
+  - [純音樂](#純音樂)
+  - [台語歌](#台語歌)
+  - [國語歌](#國語歌)
+  - [日語歌](#日語歌)
+
 ## ⭐ 今年流水帳總結：
 
 ### March：ETH Taipei｜🥷 Kage Pay
