@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dorara 的 2024 年度回顧</title>
-      <link>http://localhost:1313/post/2024_recommand/</link>
+      <link>http://localhost:1313/post/2024_review/</link>
       <pubDate>Sat, 28 Dec 2024 05:00:31 +0800</pubDate>
-      <guid>http://localhost:1313/post/2024_recommand/</guid>
+      <guid>http://localhost:1313/post/2024_review/</guid>
       <description>2024 年黑客松、出書與生活的點點滴滴</description>
     </item>
     <item>
