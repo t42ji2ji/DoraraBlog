@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, shrink-to-fit=no"
+/>
+<meta name="robots" content="noindex, nofollow" />
+<title>
+  使用 Google Whisk 創建刺繡風格卡片 | Dorara
+</title>
+<meta
+  name="keywords"
+  content=""
+/> <meta name="description" content="輕鬆創作刺繡風格卡片。"> <meta name="author" content=""> <link rel="canonical" href="http://localhost:1313/whisk/">
+<link
+  crossorigin="anonymous"
+  href="/assets/css/stylesheet.92dbeac70bac538052e2c1e6e0a5dc1b7c9010147a03e00c304ac58f2d6c1db1.css"
+  integrity="sha256-ktvqxwusU4BS4sHm4KXcG3yQEBR6A&#43;AMMErFjy1sHbE="
+  rel="preload stylesheet"
+  as="style"
+/> <link rel="icon" href="http://localhost:1313/favicon.ico"> <link
+rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png"> <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg"> <meta name="theme-color" content="#2e2e33"> <meta name="msapplication-TileColor" content="#2e2e33"> <link rel="alternate" hreflang="en" href="http://localhost:1313/whisk/" />
+<noscript>
+  <style>
+    #theme-toggle,
+    .top-link {
+      display: none;
+    }
+  </style>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --theme: rgb(29, 30, 32);
+        --entry: rgb(46, 46, 51);
+        --primary: rgb(218, 218, 219);
+        --secondary: rgb(155, 156, 157);
+        --tertiary: rgb(65, 66, 68);
+        --content: rgb(196, 196, 197);
+        --code-block-bg: rgb(46, 46, 51);
+        --code-bg: rgb(55, 56, 62);
+        --border: rgb(51, 51, 51);
+      }
+
+      .list {
+        background: var(--theme);
+      }
+
+      .list:not(.dark)::-webkit-scrollbar-track {
+        background: 0 0;
+      }
+
+      .list:not(.dark)::-webkit-scrollbar-thumb {
+        border-color: var(--theme);
+      }
+    }
+  </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Dorara (Alt + H)">Dorara</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      使用 Google Whisk 創建刺繡風格卡片
+    </h1>
+    <div class="post-description">
+      輕鬆創作刺繡風格卡片。
+    </div>
+    <div class="post-meta">1 min
+
+</div>
+  </header> 
+  <div class="post-content"><p>這裡是文字記錄，影片版可以在這裡觀看：<a href="https://youtu.be/1v91njbrc000">https://youtu.be/1v91njbrc000</a></p>
+<h2 id="什麼是-whisk">什麼是 Whisk？<a hidden class="anchor" aria-hidden="true" href="#什麼是-whisk">#</a></h2>
+<p><strong>Whisk</strong> 是 Google 推出的一個圖片生成工具，它的特點在於可以根據用戶提供的描述（prompt），生成擁有特定材質或風格的圖片，並且完全免費使用。這項服務操作簡單，即使是非專業人士也能輕鬆上手。</p>
+<h3 id="-注意whisk-目前只有對美國用戶開放可以善用-vpn-服務">⚠️ 注意：Whisk 目前只有對美國用戶開放。可以善用 VPN 服務<a hidden class="anchor" aria-hidden="true" href="#-注意whisk-目前只有對美國用戶開放可以善用-vpn-服務">#</a></h3>
+<h2 id="第一步在官網上試玩">第一步：在官網上試玩<a hidden class="anchor" aria-hidden="true" href="#第一步在官網上試玩">#</a></h2>
+<ol>
+<li><strong>進入 Whisk 官網</strong>：打開 Whisk <a href="https://whisk.google.com/">網站</a>，你可以直接從首頁進行圖片生成。</li>
+<li><strong>上傳圖片</strong>：將你的素材（例如仙人掌圖片）拖入 Whisk 的操作界面。</li>
+<li><strong>選擇材質</strong>：Whisk 將根據你的描述，自動將圖片轉換為指定的質感，例如將仙人掌變成絨毛玩偶的質地。</li>
+</ol>
+<p>在這一步中，你可以立即看到結果。例如，將一張普通圖片(subject)加上風格(style)後，可以輕鬆調整細節，變成玩偶風格的仙人掌。</p>
+<p><img loading="lazy" src="./images/01.png" alt="image"  />
+</p>
+<h2 id="第二步調整生成圖片">第二步：調整生成圖片<a hidden class="anchor" aria-hidden="true" href="#第二步調整生成圖片">#</a></h2>
+<ol>
+<li><strong>進入生成畫面</strong>：用 Open in tool 或者右上角的 Experiment 按鈕開啟生成畫面。</li>
+<li><strong>刪除不必要的元素</strong>：若要創建自己的 style 或 subject，可將多餘的圖片內容刪除。</li>
+<li><strong>輸入描述（prompt）</strong>：在輸入欄中輸入你的需求，無論是中文還是英文，Whisk 都能正確解析。例如，可以輸入「生成刺繡風格的塔羅牌」。</li>
+<li><strong>進一步微調</strong>：你可以選擇重新生成或編輯 prompt 內容，以確保得到滿意的效果。</li>
+</ol>
+<p><img loading="lazy" src="./images/02.png" alt="image"  />
+</p>
+<h2 id="進階操作結合-library-與-remix-功能">進階操作：結合 Library 與 Remix 功能<a hidden class="anchor" aria-hidden="true" href="#進階操作結合-library-與-remix-功能">#</a></h2>
+<ol>
+<li>
+<p><strong>進入 Library</strong>：點擊右上角的 Library 按鈕，查看 Whisk 為你生成的所有圖片。
+<img loading="lazy" src="./images/03.png" alt="image"  />
+</p>
+</li>
+<li>
+<p><strong>進入圖片信息</strong>：點擊圖片後，右下角 flip card 後卡片詳細資訊會顯示 prompt 和 seed（隨機生成參數），方便進一步調整。
+<img loading="lazy" src="./images/04.png" alt="image"  />
+</p>
+</li>
+<li>
+<p><strong>使用 Remix 功能</strong>：進入後，選擇分享將連結複製後，貼到新的視窗，他會打開下面的畫面，再點擊 Remix。
+<img loading="lazy" src="./images/05.png" alt="image"  />
+</p>
+</li>
+<li>
+<p><strong>Google Image Fx</strong>：在 Remix 點擊後，會進入 Google Image Fx。在這裡你可以修改 prompt，調整材質的軟硬度（如 soft、hard、rough）來嘗試不同風格。</p>
+</li>
+</ol>
+<p><img loading="lazy" src="./images/06.png" alt="image"  />
+</p>
+<blockquote>
+<p>你也可以透過我的 google image FX <a href="https://labs.google/fx/tools/image-fx/1v91njbrc0000">分享連結</a>當作起點開始嘗試哦。</p>
+</blockquote>
+<h2 id="提升效果利用-chatgpt-編輯-prompt">提升效果：利用 ChatGPT 編輯 Prompt<a hidden class="anchor" aria-hidden="true" href="#提升效果利用-chatgpt-編輯-prompt">#</a></h2>
+<p>若需要更精確的生成效果，可以將 Whisk 的 prompt 貼入 ChatGPT，並要求 AI 進行優化。例如：</p>
+<ul>
+<li><strong>需求描述</strong>：將塔羅牌改為火山爆發、龍捲風和閃電的圖案。</li>
+<li><strong>修改提示</strong>：要求 ChatGPT 保留原有材質，僅調整主題內容。</li>
+</ul>
+<p>將 ChatGPT 優化的 prompt 貼回 Whisk，點擊生成，即可得到一組全新的圖片。</p>
+<p><img loading="lazy" src="./images/07.png" alt="image"  />
+</p>
+<h2 id="反覆調整與創作的可能性">反覆調整與創作的可能性<a hidden class="anchor" aria-hidden="true" href="#反覆調整與創作的可能性">#</a></h2>
+<p>Whisk 每次會生成多張圖片，供用戶挑選。如果生成結果仍未達到理想效果，將修改後的 prompt 再次貼入 ChatGPT，提出更具體的要求（例如更多顏色或特殊光效），即可不斷改進圖片質感。</p>
+<h2 id="總結">總結<a hidden class="anchor" aria-hidden="true" href="#總結">#</a></h2>
+<p>使用 Google Whisk，從創建初稿到微調細節，整個過程都簡單高效，讓任何人都能輕鬆上手並創造專業水準的作品。不論是設計刺繡風格卡片還是生成塔羅牌，Whisk 都是不可或缺的創意工具。</p>
+<p>希望這篇指南能幫助你更好地利用 Whisk，開始創造屬於你的驚艷作品！</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/">Dorara</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
